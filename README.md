@@ -1,2 +1,2 @@
-# CSED101_Programming-Problem-Solving
-  POSTECH [CSED226] 프로그래밍과 문제해결
+# CSED101
+  POSTECH [CSED226] Programming Problem Solving
